@@ -1,0 +1,1 @@
+This it a simple Web Page written in XHTML and CSS.
